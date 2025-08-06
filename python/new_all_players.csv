@@ -1,0 +1,142 @@
+Player,Nation,Pos,Age,PrgC,PrgP,PrgR,G+A,xG+xAG,Min,Squad,isBarca
+Brennan Johnson,wls WAL,FW,24.0,60,71,197,14,0.52,2177,Tottenham,0
+Aleksandar Pavlovic,de GER,MF,21.0,15,128,33,1,0.05,1451,Bayern Munich,0
+Nicolò Barella,it ITA,MF,28.0,63,235,133,9,0.24,2493,Inter,0
+Youssouf Fofana,fr FRA,MF,26.0,44,176,32,7,0.17,2504,Milan,0
+Henrikh Mkhitaryan,am ARM,MF,36.0,72,199,93,5,0.16,2396,Inter,0
+Mattia Zaccagni,it ITA,FW,29.0,91,114,264,14,0.37,2686,Lazio,0
+Dodi Lukebakio,be BEL,FW,27.0,131,93,247,13,0.42,3092,Sevilla,0
+Isaac Romero,es ESP,FW,25.0,21,29,95,6,0.37,2156,Sevilla,0
+Dušan Vlahović,rs SRB,FW,25.0,27,22,117,14,0.69,1784,Juventus,0
+Jules Koundé,fr FRA,DF,26.0,44,165,190,5,0.2,2605,Barcelona,1
+Lamine Yamal,es ESP,FW,17.0,181,160,433,22,0.75,2856,Barcelona,1
+Ousmane Dembélé,fr FRA,FW,28.0,127,137,252,27,1.29,1730,Paris S-G,0
+Iñaki Peña,es ESP,GK,26.0,0,3,0,0,0.0,1396,Barcelona,1
+Mikel Oyarzabal,es ESP,FW,28.0,31,28,133,12,0.5,2250,Real Sociedad,0
+Adrien Rabiot,fr FRA,MF,30.0,79,168,174,13,0.4,2485,Marseille,0
+Martín Zubimendi,es ESP,MF,26.0,38,195,43,3,0.11,2962,Real Sociedad,0
+Pau Victor Delgado,es ESP,FW,23.0,6,11,28,3,1.09,319,Barcelona,1
+Granit Xhaka,ch SUI,MF,32.0,42,318,72,9,0.17,2888,Leverkusen,0
+Frenkie de Jong,nl NED,MF,28.0,36,120,24,4,0.21,1143,Barcelona,1
+Jadon Sancho,eng ENG,FW,25.0,102,90,225,7,0.3,1764,Chelsea,0
+Nicolas Jackson,sn SEN,FW,23.0,47,38,129,15,0.67,2220,Chelsea,0
+Brais Méndez,es ESP,MF,28.0,32,91,86,5,0.33,1531,Real Sociedad,0
+Albert Sambi Lokonga,be BEL,MF,25.0,24,93,20,2,0.12,1471,Sevilla,0
+Lorenzo Pellegrini,it ITA,MF,28.0,27,61,82,3,0.4,1626,Roma,0
+Gustav Isaksen,dk DEN,FW,24.0,95,46,249,6,0.3,2210,Lazio,0
+Andreas Christensen,dk DEN,DF,29.0,1,15,1,0,0.03,254,Barcelona,1
+İlkay Gündoğan,de GER,MF,34.0,64,127,96,7,0.27,2223,Manchester City,0
+Kingsley Coman,fr FRA,FW,28.0,66,45,215,9,0.53,1282,Bayern Munich,0
+Scott McTominay,sct SCO,MF,28.0,56,112,131,16,0.31,2938,Napoli,0
+Declan Rice,eng ENG,MF,26.0,90,192,94,11,0.32,2825,Arsenal,0
+Iñigo Martínez,es ESP,DF,34.0,70,260,11,4,0.11,2490,Barcelona,1
+Pedri,es ESP,MF,22.0,92,360,136,9,0.3,2879,Barcelona,1
+Gavi,es ESP,"MF,FW",20.0,13,77,42,2,0.2,1085,Barcelona,1
+Yves Bissouma,ml MLI,MF,28.0,15,75,3,2,0.06,1408,Tottenham,0
+Billy Gilmour,sct SCO,MF,23.0,11,67,18,1,0.18,1177,Napoli,0
+Pierre Højbjerg,dk DEN,MF,29.0,36,263,43,6,0.24,2664,Marseille,0
+Tijjani Reijnders,nl NED,MF,26.0,111,230,121,14,0.32,3128,Milan,0
+Alexis Mac Allister,ar ARG,MF,26.0,36,177,80,10,0.26,2599,Liverpool,0
+Darwin Núñez,uy URU,FW,25.0,23,27,78,7,0.57,1133,Liverpool,0
+Joshua Kimmich,de GER,MF,30.0,51,362,77,10,0.29,2847,Bayern Munich,0
+Ronald Araújo,uy URU,DF,26.0,6,49,3,2,0.17,754,Barcelona,1
+Ryan Gravenberch,nl NED,MF,23.0,70,181,55,4,0.12,3160,Liverpool,0
+Tammy Abraham,eng ENG,FW,27.0,8,26,69,7,0.7,1183,Milan,0
+Valentín Castellanos,ar ARG,FW,26.0,27,66,149,13,0.63,2384,Lazio,0
+Pablo Torre,es ESP,"MF,FW",22.0,5,17,20,4,0.33,310,Barcelona,1
+Ferrán Torres,es ESP,"FW,MF",25.0,23,35,98,16,0.9,1106,Barcelona,1
+Dominik Szoboszlai,hu HUN,MF,24.0,72,131,127,12,0.53,2492,Liverpool,0
+Mateo Kovačić,hr CRO,MF,31.0,56,164,16,8,0.23,2198,Manchester City,0
+Rasmus Højlund,dk DEN,FW,22.0,28,18,101,4,0.32,2004,Manchester Utd,0
+Bryan Cristante,it ITA,MF,30.0,25,145,41,6,0.15,2045,Roma,0
+Gerard Martín,es ESP,DF,23.0,10,40,122,4,0.14,1038,Barcelona,1
+Niccolò Pisilli,it ITA,MF,20.0,22,63,44,3,0.25,1227,Roma,0
+Casemiro,br BRA,MF,33.0,4,84,28,1,0.25,1494,Manchester Utd,0
+Wojciech Szczęsny,pl POL,GK,35.0,0,0,0,0,0.0,1350,Barcelona,1
+Manuel Locatelli,it ITA,MF,27.0,33,294,33,4,0.14,2822,Juventus,0
+Cyle Larin,ca CAN,FW,30.0,20,20,95,9,0.42,1764,Mallorca,0
+Pedro Neto,pt POR,FW,25.0,126,60,253,10,0.4,2269,Chelsea,0
+Artem Dovbyk,ua UKR,FW,27.0,24,16,175,14,0.53,2418,Roma,0
+Bradley Barcola,fr FRA,FW,22.0,137,96,374,24,0.97,2181,Paris S-G,0
+James Maddison,eng ENG,MF,28.0,45,164,95,16,0.5,1809,Tottenham,0
+José Luis García Vayá,es ESP,MF,26.0,13,142,19,4,0.22,1742,Valencia,0
+Manu Morlanes,es ESP,MF,26.0,16,88,39,0,0.06,1338,Mallorca,0
+Eric García,es ESP,"DF,MF",24.0,18,109,22,5,0.18,1566,Barcelona,1
+Jude Bellingham,eng ENG,MF,21.0,74,199,143,17,0.55,2488,Real Madrid,0
+Rafael Leão,pt POR,FW,25.0,123,93,262,16,0.62,2323,Milan,0
+Ismaila Sarr,sn SEN,MF,27.0,76,86,183,14,0.64,2711,Crystal Palace,0
+Son Heung-min,kr KOR,FW,32.0,96,111,265,16,0.66,2110,Tottenham,0
+Diogo Jota,pt POR,FW,28.0,37,34,88,9,0.74,1195,Liverpool,0
+Omar Mascarell,gq EQG,MF,32.0,10,75,12,1,0.03,1992,Mallorca,0
+Cody Gakpo,nl NED,FW,26.0,59,52,278,14,0.53,1935,Liverpool,0
+Pau Cubarsí,es ESP,DF,18.0,26,191,6,3,0.08,2618,Barcelona,1
+Romelu Lukaku,be BEL,FW,32.0,31,36,219,24,0.54,2843,Napoli,0
+Kobbie Mainoo,eng ENG,MF,20.0,22,65,47,0,0.12,1651,Manchester Utd,0
+Bruno Fernandes,pt POR,MF,30.0,77,325,129,18,0.55,3018,Manchester Utd,0
+Lucas Bergvall,se SWE,MF,19.0,33,49,31,1,0.09,1212,Tottenham,0
+Rodrigo Bentancur,uy URU,MF,27.0,28,100,34,2,0.1,1645,Tottenham,0
+Vedat Muriqi,xk KVX,FW,31.0,23,30,103,9,0.52,2058,Mallorca,0
+Ansu Fati,es ESP,FW,22.0,7,6,32,0,0.44,233,Barcelona,1
+Samu Costa,pt POR,MF,24.0,24,116,69,2,0.1,2649,Mallorca,0
+Vinicius Júnior,br BRA,FW,24.0,169,85,256,19,0.73,2253,Real Madrid,0
+Noni Madueke,eng ENG,FW,23.0,154,69,226,10,0.61,2033,Chelsea,0
+Mohamed Salah,eg EGY,FW,32.0,154,144,488,47,1.05,3371,Liverpool,0
+Dominic Solanke,eng ENG,FW,27.0,31,47,88,12,0.57,2201,Tottenham,0
+Héctor Fort,es ESP,DF,18.0,14,26,33,0,0.17,585,Barcelona,1
+Robert Lewandowski,pl POL,FW,36.0,26,48,164,29,0.99,2667,Barcelona,1
+Khéphren Thuram,fr FRA,MF,24.0,74,123,52,9,0.28,2326,Juventus,0
+Marc Casado,es ESP,MF,21.0,12,107,24,4,0.13,1611,Barcelona,1
+Dani Olmo,es ESP,"MF,FW",27.0,33,81,96,13,0.71,1212,Barcelona,1
+Hakan Çalhanoğlu,tr TUR,MF,31.0,52,173,51,11,0.46,1947,Inter,0
+Harry Kane,eng ENG,FW,31.0,29,97,143,35,0.97,2381,Bayern Munich,0
+Nicolò Rovella,it ITA,MF,23.0,45,159,42,3,0.12,2718,Lazio,0
+Sergi Dominguez,es ESP,DF,20.0,0,13,1,0,0.0,172,Barcelona,1
+Luka Modrić,hr CRO,MF,39.0,62,208,63,8,0.42,1827,Real Madrid,0
+Luka Sučić,hr CRO,MF,22.0,30,79,56,2,0.3,1792,Real Sociedad,0
+Marcel Sabitzer,at AUT,MF,31.0,24,97,70,1,0.19,1616,Dortmund,0
+Aleix García,es ESP,MF,27.0,27,120,47,7,0.36,1455,Leverkusen,0
+Enzo Fernández,ar ARG,MF,24.0,60,212,126,13,0.39,2947,Chelsea,0
+Marcus Thuram,fr FRA,FW,27.0,62,53,170,18,0.56,2290,Inter,0
+Luis Díaz,co COL,FW,28.0,108,110,293,18,0.64,2399,Liverpool,0
+David Neres,br BRA,FW,28.0,73,32,143,6,0.44,1283,Napoli,0
+Erling Haaland,no NOR,FW,24.0,24,20,124,25,0.82,2736,Manchester City,0
+Andre-Frank Zambo Anguissa,cm CMR,MF,29.0,24,144,119,10,0.22,2852,Napoli,0
+Stanislav Lobotka,sk SVK,MF,30.0,30,118,32,1,0.05,2636,Napoli,0
+Leandro Trossard,be BEL,FW,30.0,80,101,226,15,0.47,2546,Arsenal,0
+Jean-Philippe Mateta,fr FRA,FW,27.0,45,53,122,16,0.57,2648,Crystal Palace,0
+Dani Ceballos,es ESP,MF,28.0,42,150,17,0,0.15,1215,Real Madrid,0
+Javier Guerra,es ESP,MF,22.0,50,137,84,6,0.19,2581,Valencia,0
+Pape Matar Sarr,sn SEN,MF,22.0,33,88,53,5,0.25,1913,Tottenham,0
+Hugo Duro,es ESP,FW,25.0,13,28,88,13,0.44,2166,Valencia,0
+Lautaro Martínez,ar ARG,FW,27.0,34,68,197,15,0.62,2564,Inter,0
+Vitinha,pt POR,MF,25.0,53,224,57,6,0.27,2042,Paris S-G,0
+Djibril Sow,ch SUI,MF,28.0,23,100,50,3,0.18,2062,Sevilla,0
+Mattéo Guendouzi,fr FRA,MF,26.0,89,316,64,4,0.13,3270,Lazio,0
+Manu Koné,fr FRA,MF,24.0,70,144,50,3,0.18,2572,Roma,0
+Enzo Barrenechea,ar ARG,MF,24.0,21,126,16,3,0.09,2191,Valencia,0
+Adam Wharton,eng ENG,MF,20.0,14,107,11,2,0.23,1318,Crystal Palace,0
+Serhou Guirassy,gn GUI,FW,29.0,25,43,128,25,0.92,2598,Dortmund,0
+Will Hughes,eng ENG,MF,30.0,20,87,27,3,0.18,2108,Crystal Palace,0
+Patrik Schick,cz CZE,FW,29.0,7,21,107,21,0.71,1684,Leverkusen,0
+Julian Brandt,de GER,MF,29.0,61,149,199,15,0.52,2303,Dortmund,0
+Lucien Agoume,fr FRA,MF,23.0,29,135,23,4,0.14,2114,Sevilla,0
+Leandro Paredes,ar ARG,MF,30.0,17,106,14,4,0.25,1373,Roma,0
+Manuel Ugarte Ribeiro,uy URU,MF,24.0,16,61,20,3,0.11,1785,Manchester Utd,0
+Alejandro Balde,es ESP,DF,21.0,107,93,246,4,0.15,2284,Barcelona,1
+Davide Frattesi,it ITA,MF,25.0,23,31,50,6,0.35,1225,Inter,0
+Daniel Rodriguez,es ESP,FW,19.0,4,2,9,0,0.06,37,Barcelona,1
+Marc Bernal,es ESP,MF,18.0,0,8,2,0,0.03,242,Barcelona,1
+Marc-André ter Stegen,de GER,GK,33.0,0,2,0,0,0.0,674,Barcelona,1
+Felix Nmecha,de GER,MF,24.0,21,85,27,5,0.15,1509,Dortmund,0
+Jamal Musiala,de GER,MF,22.0,71,107,156,14,0.69,1798,Bayern Munich,0
+Fabián Ruiz Peña,es ESP,MF,29.0,47,205,92,9,0.42,1923,Paris S-G,0
+Pablo Marín,es ESP,MF,21.0,20,45,47,3,0.17,1239,Real Sociedad,0
+Randal Kolo Muani,fr FRA,FW,26.0,21,20,100,9,0.49,1160,Juventus,0
+Leroy Sané,de GER,FW,29.0,75,64,266,16,0.87,1637,Bayern Munich,0
+Martin Ødegaard,no NOR,MF,26.0,92,258,154,11,0.4,2325,Arsenal,0
+Raphinha,br BRA,"FW,MF",28.0,94,135,349,27,1.01,2839,Barcelona,1
+Daichi Kamada,jp JPN,MF,28.0,25,88,56,0,0.17,1564,Crystal Palace,0
+Exequiel Palacios,ar ARG,MF,26.0,15,97,40,7,0.3,1155,Leverkusen,0
+Fermin López,es ESP,"MF,FW",22.0,31,78,108,11,0.68,1252,Barcelona,1
+Kylian Mbappé,fr FRA,FW,26.0,150,140,386,34,1.04,2907,Real Madrid,0
+Saúl Ñíguez,es ESP,MF,30.0,13,66,39,7,0.31,1553,Sevilla,0
