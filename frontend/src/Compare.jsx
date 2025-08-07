@@ -131,7 +131,7 @@ harryvraphinha: [
     color: "#F59E0B",
     bg: "#FEF3C7",
     initial: "K",
-    image: kane // You'll need to add Harry Kane's image
+    image: kane 
   },
   {
     name: "Raphinha",
@@ -140,7 +140,7 @@ harryvraphinha: [
     color: "#F472B6",
     bg: "#F7D2E4",
     initial: "R",
-    image: raph // You'll need to add Raphinha's image
+    image: raph 
   }
 ],
 mbappevyamal: [
