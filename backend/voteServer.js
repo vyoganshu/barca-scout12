@@ -38,6 +38,19 @@ app.get('/players', async (req, res) => {
   }
 });
 
+app.get('/init-votes', async (req, res) => {
+  try {
+    const result = await playersCollection.updateMany(
+      { votes: { $exists: false } },
+      { $set: { votes: 0 } }
+    );
+    res.json({ updated: result.modifiedCount });
+  } catch (err) {
+    res.status(500).json({ error: "Failed to init votes" });
+  }
+});
+
+
 // POST: Vote for player
 app.post('/vote/:id', async (req, res) => {
   try {
